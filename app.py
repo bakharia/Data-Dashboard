@@ -1,7 +1,7 @@
 from shiny import App, render, ui
 import pandas as pd
 import matplotlib.pyplot as plt
-from settings import get_names
+from setup import get_names
 
 # app_ui = ui.page_fluid(
 #     ui.h2("Hello Shiny!"),
