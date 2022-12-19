@@ -1,0 +1,2 @@
+dataset_title,dataset_filename,dataset_link,dataset_description,dataset_tidy,course_suggestion,categories
+Wet Bulb Temperatures,,https://drive.google.com/file/d/15cd9UGtG6EGfyvpRL9Y6KqQHpd_Opdpz/view?usp=share_link,Pretty fun dataset that I've worked with before showcasing wet bulb temperature in different parts of the world in the form of lat and longitudes (base scale set at 27 Celcius),FALSE,GIS/601/Time Series etc,Climate

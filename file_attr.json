@@ -1,0 +1,12 @@
+{
+    "Wet Bulb Temperatures": {
+        "file_location": "dateslocationsofall27c.txt",
+        "sep": ",",
+        "type": "txt",
+        "category": "csv",
+        "headers": false,
+        "skip_rows": false,
+        "set_col": true,
+        "col": ["lat", "lon", "delta", "year", "month", "day"]
+    }
+}
